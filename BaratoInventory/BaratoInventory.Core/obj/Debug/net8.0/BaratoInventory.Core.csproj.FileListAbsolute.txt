@@ -1,0 +1,14 @@
+E:\kcc assignment\BaratoInventory\BaratoInventory.Core\bin\Debug\net8.0\BaratoInventory.Core.deps.json
+E:\kcc assignment\BaratoInventory\BaratoInventory.Core\bin\Debug\net8.0\BaratoInventory.Core.runtimeconfig.json
+E:\kcc assignment\BaratoInventory\BaratoInventory.Core\bin\Debug\net8.0\BaratoInventory.Core.dll
+E:\kcc assignment\BaratoInventory\BaratoInventory.Core\bin\Debug\net8.0\BaratoInventory.Core.pdb
+E:\kcc assignment\BaratoInventory\BaratoInventory.Core\obj\Debug\net8.0\BaratoInventory.Core.csproj.AssemblyReference.cache
+E:\kcc assignment\BaratoInventory\BaratoInventory.Core\obj\Debug\net8.0\BaratoInventory.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\kcc assignment\BaratoInventory\BaratoInventory.Core\obj\Debug\net8.0\BaratoInventory.Core.AssemblyInfoInputs.cache
+E:\kcc assignment\BaratoInventory\BaratoInventory.Core\obj\Debug\net8.0\BaratoInventory.Core.AssemblyInfo.cs
+E:\kcc assignment\BaratoInventory\BaratoInventory.Core\obj\Debug\net8.0\BaratoInventory.Core.csproj.CoreCompileInputs.cache
+E:\kcc assignment\BaratoInventory\BaratoInventory.Core\obj\Debug\net8.0\BaratoInventory.Core.dll
+E:\kcc assignment\BaratoInventory\BaratoInventory.Core\obj\Debug\net8.0\refint\BaratoInventory.Core.dll
+E:\kcc assignment\BaratoInventory\BaratoInventory.Core\obj\Debug\net8.0\BaratoInventory.Core.pdb
+E:\kcc assignment\BaratoInventory\BaratoInventory.Core\obj\Debug\net8.0\BaratoInventory.Core.genruntimeconfig.cache
+E:\kcc assignment\BaratoInventory\BaratoInventory.Core\obj\Debug\net8.0\ref\BaratoInventory.Core.dll

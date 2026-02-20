@@ -1,0 +1,387 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\kcc assignment\\BaratoInventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D956F05-B571-463B-8460-E4CF40712046}|BaratoInventory.Infrastructure\\BaratoInventory.Infrastructure.csproj|e:\\kcc assignment\\baratoinventory\\baratoinventory.infrastructure\\services\\posservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D956F05-B571-463B-8460-E4CF40712046}|BaratoInventory.Infrastructure\\BaratoInventory.Infrastructure.csproj|solutionrelative:baratoinventory.infrastructure\\services\\posservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D956F05-B571-463B-8460-E4CF40712046}|BaratoInventory.Infrastructure\\BaratoInventory.Infrastructure.csproj|e:\\kcc assignment\\baratoinventory\\baratoinventory.infrastructure\\services\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D956F05-B571-463B-8460-E4CF40712046}|BaratoInventory.Infrastructure\\BaratoInventory.Infrastructure.csproj|solutionrelative:baratoinventory.infrastructure\\services\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D956F05-B571-463B-8460-E4CF40712046}|BaratoInventory.Infrastructure\\BaratoInventory.Infrastructure.csproj|e:\\kcc assignment\\baratoinventory\\baratoinventory.infrastructure\\repositories\\queries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D956F05-B571-463B-8460-E4CF40712046}|BaratoInventory.Infrastructure\\BaratoInventory.Infrastructure.csproj|solutionrelative:baratoinventory.infrastructure\\repositories\\queries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C237465-E4B0-45A6-889D-9EDCB8625998}|BaratoInventory.Core\\BaratoInventory.Core.csproj|e:\\kcc assignment\\baratoinventory\\baratoinventory.core\\models\\psdoclin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C237465-E4B0-45A6-889D-9EDCB8625998}|BaratoInventory.Core\\BaratoInventory.Core.csproj|solutionrelative:baratoinventory.core\\models\\psdoclin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C237465-E4B0-45A6-889D-9EDCB8625998}|BaratoInventory.Core\\BaratoInventory.Core.csproj|e:\\kcc assignment\\baratoinventory\\baratoinventory.core\\common\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C237465-E4B0-45A6-889D-9EDCB8625998}|BaratoInventory.Core\\BaratoInventory.Core.csproj|solutionrelative:baratoinventory.core\\common\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C237465-E4B0-45A6-889D-9EDCB8625998}|BaratoInventory.Core\\BaratoInventory.Core.csproj|e:\\kcc assignment\\baratoinventory\\baratoinventory.core\\interface\\iposservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C237465-E4B0-45A6-889D-9EDCB8625998}|BaratoInventory.Core\\BaratoInventory.Core.csproj|solutionrelative:baratoinventory.core\\interface\\iposservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C237465-E4B0-45A6-889D-9EDCB8625998}|BaratoInventory.Core\\BaratoInventory.Core.csproj|e:\\kcc assignment\\baratoinventory\\baratoinventory.core\\dtos\\createtransactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C237465-E4B0-45A6-889D-9EDCB8625998}|BaratoInventory.Core\\BaratoInventory.Core.csproj|solutionrelative:baratoinventory.core\\dtos\\createtransactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B84061-4704-4AE0-A558-45C35EC013AA}|BaratoInventory.API\\BaratoInventory.API.csproj|e:\\kcc assignment\\baratoinventory\\baratoinventory.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B84061-4704-4AE0-A558-45C35EC013AA}|BaratoInventory.API\\BaratoInventory.API.csproj|solutionrelative:baratoinventory.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B84061-4704-4AE0-A558-45C35EC013AA}|BaratoInventory.API\\BaratoInventory.API.csproj|e:\\kcc assignment\\baratoinventory\\baratoinventory.api\\controllers\\poscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B84061-4704-4AE0-A558-45C35EC013AA}|BaratoInventory.API\\BaratoInventory.API.csproj|solutionrelative:baratoinventory.api\\controllers\\poscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B84061-4704-4AE0-A558-45C35EC013AA}|BaratoInventory.API\\BaratoInventory.API.csproj|e:\\kcc assignment\\baratoinventory\\baratoinventory.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51B84061-4704-4AE0-A558-45C35EC013AA}|BaratoInventory.API\\BaratoInventory.API.csproj|solutionrelative:baratoinventory.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B84061-4704-4AE0-A558-45C35EC013AA}|BaratoInventory.API\\BaratoInventory.API.csproj|e:\\kcc assignment\\baratoinventory\\baratoinventory.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51B84061-4704-4AE0-A558-45C35EC013AA}|BaratoInventory.API\\BaratoInventory.API.csproj|solutionrelative:baratoinventory.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B84061-4704-4AE0-A558-45C35EC013AA}|BaratoInventory.API\\BaratoInventory.API.csproj|e:\\kcc assignment\\baratoinventory\\baratoinventory.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51B84061-4704-4AE0-A558-45C35EC013AA}|BaratoInventory.API\\BaratoInventory.API.csproj|solutionrelative:baratoinventory.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B84061-4704-4AE0-A558-45C35EC013AA}|BaratoInventory.API\\BaratoInventory.API.csproj|e:\\kcc assignment\\baratoinventory\\baratoinventory.api\\baratoinventory.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{51B84061-4704-4AE0-A558-45C35EC013AA}|BaratoInventory.API\\BaratoInventory.API.csproj|solutionrelative:baratoinventory.api\\baratoinventory.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 370,
+          "SelectedChildIndex": 36,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:39:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:41:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:43:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:45:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:47:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:49:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:51:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:53:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:55:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:57:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:59:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:61:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:63:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:73:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:75:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:77:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:79:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:81:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:83:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:67:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:71:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:85:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:68:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:90:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:92:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:94:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:96:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPosService.cs",
+              "DocumentMoniker": "E:\\kcc assignment\\BaratoInventory\\BaratoInventory.Core\\Interface\\IPosService.cs",
+              "RelativeDocumentMoniker": "BaratoInventory.Core\\Interface\\IPosService.cs",
+              "ToolTip": "E:\\kcc assignment\\BaratoInventory\\BaratoInventory.Core\\Interface\\IPosService.cs",
+              "RelativeToolTip": "BaratoInventory.Core\\Interface\\IPosService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T13:11:42.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PosService.cs",
+              "DocumentMoniker": "E:\\kcc assignment\\BaratoInventory\\BaratoInventory.Infrastructure\\Services\\PosService.cs",
+              "RelativeDocumentMoniker": "BaratoInventory.Infrastructure\\Services\\PosService.cs",
+              "ToolTip": "E:\\kcc assignment\\BaratoInventory\\BaratoInventory.Infrastructure\\Services\\PosService.cs",
+              "RelativeToolTip": "BaratoInventory.Infrastructure\\Services\\PosService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T13:06:11.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PosController.cs",
+              "DocumentMoniker": "E:\\kcc assignment\\BaratoInventory\\BaratoInventory.API\\Controllers\\PosController.cs",
+              "RelativeDocumentMoniker": "BaratoInventory.API\\Controllers\\PosController.cs",
+              "ToolTip": "E:\\kcc assignment\\BaratoInventory\\BaratoInventory.API\\Controllers\\PosController.cs",
+              "RelativeToolTip": "BaratoInventory.API\\Controllers\\PosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T11:54:29.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateTransactionRequest.cs",
+              "DocumentMoniker": "E:\\kcc assignment\\BaratoInventory\\BaratoInventory.Core\\DTOs\\CreateTransactionRequest.cs",
+              "RelativeDocumentMoniker": "BaratoInventory.Core\\DTOs\\CreateTransactionRequest.cs",
+              "ToolTip": "E:\\kcc assignment\\BaratoInventory\\BaratoInventory.Core\\DTOs\\CreateTransactionRequest.cs",
+              "RelativeToolTip": "BaratoInventory.Core\\DTOs\\CreateTransactionRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T11:25:50.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 370,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceResponse.cs",
+              "DocumentMoniker": "E:\\kcc assignment\\BaratoInventory\\BaratoInventory.Core\\Common\\ServiceResponse.cs",
+              "RelativeDocumentMoniker": "BaratoInventory.Core\\Common\\ServiceResponse.cs",
+              "ToolTip": "E:\\kcc assignment\\BaratoInventory\\BaratoInventory.Core\\Common\\ServiceResponse.cs",
+              "RelativeToolTip": "BaratoInventory.Core\\Common\\ServiceResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T13:33:44.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Queries.cs",
+              "DocumentMoniker": "E:\\kcc assignment\\BaratoInventory\\BaratoInventory.Infrastructure\\Repositories\\Queries.cs",
+              "RelativeDocumentMoniker": "BaratoInventory.Infrastructure\\Repositories\\Queries.cs",
+              "ToolTip": "E:\\kcc assignment\\BaratoInventory\\BaratoInventory.Infrastructure\\Repositories\\Queries.cs",
+              "RelativeToolTip": "BaratoInventory.Infrastructure\\Repositories\\Queries.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T09:37:56.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaratoInventory.API.csproj",
+              "DocumentMoniker": "E:\\kcc assignment\\BaratoInventory\\BaratoInventory.API\\BaratoInventory.API.csproj",
+              "RelativeDocumentMoniker": "BaratoInventory.API\\BaratoInventory.API.csproj",
+              "ToolTip": "E:\\kcc assignment\\BaratoInventory\\BaratoInventory.API\\BaratoInventory.API.csproj",
+              "RelativeToolTip": "BaratoInventory.API\\BaratoInventory.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-02T05:26:04.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\kcc assignment\\BaratoInventory\\BaratoInventory.API\\Program.cs",
+              "RelativeDocumentMoniker": "BaratoInventory.API\\Program.cs",
+              "ToolTip": "E:\\kcc assignment\\BaratoInventory\\BaratoInventory.API\\Program.cs",
+              "RelativeToolTip": "BaratoInventory.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T04:44:00.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PsDocLin.cs",
+              "DocumentMoniker": "E:\\kcc assignment\\BaratoInventory\\BaratoInventory.Core\\Models\\PsDocLin.cs",
+              "RelativeDocumentMoniker": "BaratoInventory.Core\\Models\\PsDocLin.cs",
+              "ToolTip": "E:\\kcc assignment\\BaratoInventory\\BaratoInventory.Core\\Models\\PsDocLin.cs",
+              "RelativeToolTip": "BaratoInventory.Core\\Models\\PsDocLin.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAADwvyoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T11:20:02.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\kcc assignment\\BaratoInventory\\BaratoInventory.API\\appsettings.json",
+              "RelativeDocumentMoniker": "BaratoInventory.API\\appsettings.json",
+              "ToolTip": "E:\\kcc assignment\\BaratoInventory\\BaratoInventory.API\\appsettings.json",
+              "RelativeToolTip": "BaratoInventory.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-02T04:57:52.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\kcc assignment\\BaratoInventory\\BaratoInventory.Infrastructure\\Services\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BaratoInventory.Infrastructure\\Services\\AppDbContext.cs",
+              "ToolTip": "E:\\kcc assignment\\BaratoInventory\\BaratoInventory.Infrastructure\\Services\\AppDbContext.cs",
+              "RelativeToolTip": "BaratoInventory.Infrastructure\\Services\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T04:42:50.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\kcc assignment\\BaratoInventory\\BaratoInventory.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BaratoInventory.API\\appsettings.Development.json",
+              "ToolTip": "E:\\kcc assignment\\BaratoInventory\\BaratoInventory.API\\appsettings.Development.json",
+              "RelativeToolTip": "BaratoInventory.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-02T09:21:55.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\kcc assignment\\BaratoInventory\\BaratoInventory.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BaratoInventory.API\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\kcc assignment\\BaratoInventory\\BaratoInventory.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BaratoInventory.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-02T10:37:55.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

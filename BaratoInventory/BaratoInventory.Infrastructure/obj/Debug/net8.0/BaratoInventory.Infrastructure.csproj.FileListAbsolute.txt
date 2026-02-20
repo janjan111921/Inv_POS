@@ -1,0 +1,17 @@
+E:\kcc assignment\BaratoInventory\BaratoInventory.Infrastructure\bin\Debug\net8.0\BaratoInventory.Infrastructure.deps.json
+E:\kcc assignment\BaratoInventory\BaratoInventory.Infrastructure\bin\Debug\net8.0\BaratoInventory.Infrastructure.runtimeconfig.json
+E:\kcc assignment\BaratoInventory\BaratoInventory.Infrastructure\bin\Debug\net8.0\BaratoInventory.Infrastructure.dll
+E:\kcc assignment\BaratoInventory\BaratoInventory.Infrastructure\bin\Debug\net8.0\BaratoInventory.Infrastructure.pdb
+E:\kcc assignment\BaratoInventory\BaratoInventory.Infrastructure\bin\Debug\net8.0\BaratoInventory.Core.dll
+E:\kcc assignment\BaratoInventory\BaratoInventory.Infrastructure\bin\Debug\net8.0\BaratoInventory.Core.pdb
+E:\kcc assignment\BaratoInventory\BaratoInventory.Infrastructure\obj\Debug\net8.0\BaratoInventory.Infrastructure.csproj.AssemblyReference.cache
+E:\kcc assignment\BaratoInventory\BaratoInventory.Infrastructure\obj\Debug\net8.0\BaratoInventory.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\kcc assignment\BaratoInventory\BaratoInventory.Infrastructure\obj\Debug\net8.0\BaratoInventory.Infrastructure.AssemblyInfoInputs.cache
+E:\kcc assignment\BaratoInventory\BaratoInventory.Infrastructure\obj\Debug\net8.0\BaratoInventory.Infrastructure.AssemblyInfo.cs
+E:\kcc assignment\BaratoInventory\BaratoInventory.Infrastructure\obj\Debug\net8.0\BaratoInventory.Infrastructure.csproj.CoreCompileInputs.cache
+E:\kcc assignment\BaratoInventory\BaratoInventory.Infrastructure\obj\Debug\net8.0\BaratoIn.F881A35A.Up2Date
+E:\kcc assignment\BaratoInventory\BaratoInventory.Infrastructure\obj\Debug\net8.0\BaratoInventory.Infrastructure.dll
+E:\kcc assignment\BaratoInventory\BaratoInventory.Infrastructure\obj\Debug\net8.0\refint\BaratoInventory.Infrastructure.dll
+E:\kcc assignment\BaratoInventory\BaratoInventory.Infrastructure\obj\Debug\net8.0\BaratoInventory.Infrastructure.pdb
+E:\kcc assignment\BaratoInventory\BaratoInventory.Infrastructure\obj\Debug\net8.0\BaratoInventory.Infrastructure.genruntimeconfig.cache
+E:\kcc assignment\BaratoInventory\BaratoInventory.Infrastructure\obj\Debug\net8.0\ref\BaratoInventory.Infrastructure.dll

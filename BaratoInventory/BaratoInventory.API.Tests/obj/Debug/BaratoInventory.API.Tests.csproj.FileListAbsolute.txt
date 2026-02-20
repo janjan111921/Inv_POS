@@ -1,0 +1,15 @@
+E:\kcc assignment\BaratoInventory\BaratoInventory.API.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\kcc assignment\BaratoInventory\BaratoInventory.API.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\kcc assignment\BaratoInventory\BaratoInventory.API.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\kcc assignment\BaratoInventory\BaratoInventory.API.Tests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\kcc assignment\BaratoInventory\BaratoInventory.API.Tests\bin\Debug\BaratoInventory.API.Tests.dll
+E:\kcc assignment\BaratoInventory\BaratoInventory.API.Tests\bin\Debug\BaratoInventory.API.Tests.pdb
+E:\kcc assignment\BaratoInventory\BaratoInventory.API.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\kcc assignment\BaratoInventory\BaratoInventory.API.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\kcc assignment\BaratoInventory\BaratoInventory.API.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\kcc assignment\BaratoInventory\BaratoInventory.API.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\kcc assignment\BaratoInventory\BaratoInventory.API.Tests\obj\Debug\BaratoInventory.API.Tests.csproj.AssemblyReference.cache
+E:\kcc assignment\BaratoInventory\BaratoInventory.API.Tests\obj\Debug\BaratoInventory.API.Tests.csproj.CoreCompileInputs.cache
+E:\kcc assignment\BaratoInventory\BaratoInventory.API.Tests\obj\Debug\BaratoIn.8ACDBECE.Up2Date
+E:\kcc assignment\BaratoInventory\BaratoInventory.API.Tests\obj\Debug\BaratoInventory.API.Tests.dll
+E:\kcc assignment\BaratoInventory\BaratoInventory.API.Tests\obj\Debug\BaratoInventory.API.Tests.pdb
